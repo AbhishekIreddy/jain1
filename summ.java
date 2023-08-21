@@ -8,4 +8,4 @@ public class summ
 		System.out.println("sum"+sum);
 	}
 }
-kjgzdghfzxhmchzxghf
+
